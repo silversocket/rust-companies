@@ -107,6 +107,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [AppSignal](https://appsignal.com) - Fast and robust monitoring agent for web applications.
 * [Canonical](http://www.canonical.com) - Everything from server monitoring to middleware!
+* [CrowdStrike](https://www.crowdstrike.com/) ([1](https://twitter.com/aionescu/status/1213151075336888325?s=21), [2](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA-Remote/Senior-Rust-Software-Engineer_R224)) - Use in Data Science
 * [Distil Networks](https://www.distilnetworks.com) - We are using Rust in our low latency bot detection and mitigation platform.
 * [krypt.co](https://krypt.co)([1](https://github.com/kryptco/ssh-wire), [2](https://github.com/KryptCo/kr/tree/master/pkcs11shim)) - Shared code between iOS and Android for SSH host signature verification as well as a PKCS11 shared library.
 * [Red Sift](https://redsift.com)
